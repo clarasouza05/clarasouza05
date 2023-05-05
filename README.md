@@ -1,4 +1,6 @@
-# [Clara Souza] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Clara Souza] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">!
+
+![f6719fd6-tenor](https://user-images.githubusercontent.com/132693611/236526455-712ed1ec-8e0d-4331-8998-819250f0899f.gif)
 
 Eu sou <strong>Clara Souza</strong>, <strong>Estudante de TI e Full Stack</strong> 👨🏻‍💻 
 
@@ -16,5 +18,5 @@ Eu sou <strong>Clara Souza</strong>, <strong>Estudante de TI e Full Stack</stron
 
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 </div>
