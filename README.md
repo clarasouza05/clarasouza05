@@ -22,9 +22,5 @@
   <strong>(HTML, CSS , ...)</strong>📚<br>
   <strong>(Git/Github, JavaScritp, ...)</strong>🚀<br>
 </p>
-
-<div align="center">
-  ![clarasouza05's Stats](https://github-readme-stats.vercel.app/api?username=clarasouza05&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![clarasouza05's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clarasouza05&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)  
-
-  </div>
+  
+  ![clarasouza05's Stats](https://github-readme-stats.vercel.app/api?username=clarasouza05&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
