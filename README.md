@@ -2,21 +2,27 @@
 
 ![f6719fd6-tenor](https://user-images.githubusercontent.com/132693611/236526455-712ed1ec-8e0d-4331-8998-819250f0899f.gif)
 
-Eu sou <strong>Clara Souza</strong>, <strong>Estudante de TI e Full Stack</strong> 👨🏻‍💻 
+<h1 align="center"> Olá, eu sou <strong>Clara Souza</strong> bem-vindo ao meu perfil.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-- 🚀 Atualmente estou aprendendo: <strong>Javascrit </strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=SEU-LINKEDIN-AQUI)](https://www.linkedin.com/in/maria-clara-souza-35b469249)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&color=black&logoColor=white&link=mailto:SEU-EMAIL-AQUI)](mailto:SEU-EMAIL-AQUI)
+
+
+</div>
+
+<hr>
+
+<h3 align="center"><strong> FullStack Developer 💻|| Metodologia Scrum || JavaScript || Python || MySQL</strong> </h3>
+
+<p align="center">
+  <strong>Senac (TECNICO DE INFORMATICA) </strong><br>
+  <strong>(HTML, CSS , ...)</strong>📚<br>
+  <strong>(Git/Github, JavaScritp, ...)</strong>🚀<br>
+</p>
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-</div>
+  </div>
