@@ -15,7 +15,7 @@
 
 <hr>
 
-<h3 align="center"><strong> FullStack Developer 💻|| Metodologia Scrum || JavaScript || Python || MySQL</strong> </h3>
+<h3 align="center"><strong> FullStack Developer 💻|| Metodologia Scrum || JavaScript || MySQL</strong> </h3>
 
 <p align="center">
   <strong>Senac (TECNICO DE INFORMATICA) </strong><br>
